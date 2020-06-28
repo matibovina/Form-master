@@ -84,6 +84,11 @@ main {
   margin-bottom: 1rem;
   border: 1px solid var(--GrayishBlue-color);
   border-radius: 5px;
+  line-height: 2rem;
+}
+.form input {
+  border-spacing: 1rem;
+  padding-left: 1rem;
 }
 
 .form input::placeholder {
